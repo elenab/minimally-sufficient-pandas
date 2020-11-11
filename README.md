@@ -1,1 +1,1 @@
-# minimally-sufficient-pandas
+### Pandas essential functionalities
