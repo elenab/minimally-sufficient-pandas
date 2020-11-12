@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # minimally-sufficient-pandas
 
 ```
@@ -9,3 +10,6 @@ Then run:
 ``` 
 jupyter lab
 ```
+=======
+### Pandas essential functionalities
+>>>>>>> 122480f190658817e1e8cabb082896607374d890
