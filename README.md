@@ -9,9 +9,6 @@ Then run:
 jupyter lab
 ```
 
-### Time Series Analysis with Pandas
-Notebook following along this article: https://www.dataquest.io/blog/tutorial-time-series-analysis-with-pandas/
-
 ### Intro to Pandas
 Notebook following along this article: https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428
 
